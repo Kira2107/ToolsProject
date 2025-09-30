@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ToolsProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Engine\ToolsProject\Intermediate\Build\Win64\x64\ToolsProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"E:\Unreal Engine\ToolsProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolsProject\ToolsProject.init.gen.cpp.obj"
+"E:\Unreal Engine\ToolsProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolsProject\ToolsProjectCharacter.gen.cpp.obj"
+"E:\Unreal Engine\ToolsProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolsProject\ToolsProjectGameMode.gen.cpp.obj"
+"E:\Unreal Engine\ToolsProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolsProject\ToolsProject.cpp.obj"
+"E:\Unreal Engine\ToolsProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolsProject\ToolsProjectCharacter.cpp.obj"
+"E:\Unreal Engine\ToolsProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolsProject\ToolsProjectGameMode.cpp.obj"
+"E:\Unreal Engine\ToolsProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolsProject\PerModuleInline.gen.cpp.obj"
+"E:\Unreal Engine\ToolsProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolsProject\Default.rc2.res"
+/OUT:"E:\Unreal Engine\ToolsProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolsProject\UnrealEditor-ToolsProject.lib"

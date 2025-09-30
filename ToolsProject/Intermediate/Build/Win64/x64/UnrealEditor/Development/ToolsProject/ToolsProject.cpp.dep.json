@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal engine\\toolsproject\\source\\toolsproject\\toolsproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal engine\\toolsproject\\intermediate\\build\\win64\\x64\\toolsprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal engine\\toolsproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\toolsproject\\definitions.toolsproject.h",
+            "e:\\unreal engine\\toolsproject\\source\\toolsproject\\toolsproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
