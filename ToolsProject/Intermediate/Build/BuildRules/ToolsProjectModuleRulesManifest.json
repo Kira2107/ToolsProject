@@ -1,9 +1,0 @@
-{
-	"SourceFiles": [
-		"E:\\Unreal Engine\\ToolsProject\\Source\\ToolsProject\\ToolsProject.Build.cs",
-		"E:\\Unreal Engine\\ToolsProject\\Plugins\\HelloWorld\\Source\\HelloWorld\\HelloWorld.Build.cs",
-		"E:\\Unreal Engine\\ToolsProject\\Source\\ToolsProject.Target.cs",
-		"E:\\Unreal Engine\\ToolsProject\\Source\\ToolsProjectEditor.Target.cs"
-	],
-	"EngineVersion": "5.5.4"
-}
